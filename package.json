@@ -1,0 +1,21 @@
+{
+  "name": "elspin",
+  "version": "1.0.0",
+  "description": "elspin layout",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Yaroshko/elspin-layout.git"
+  },
+  "dependencies": {
+    "parcel": "^2.7.0",
+    "sass": "^1.54.9"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0"
+  }
+}
