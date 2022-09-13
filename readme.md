@@ -1,1 +1,1 @@
-https://Alex-Yaroshko/ELSPIN.layout/src/index.html
+https://Alex-Yaroshko/elspin-layout/src/index.html
